@@ -2,7 +2,7 @@
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/](https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/)
+[https://github.com/SENA-EXTERNOS/122153-CF6-TG-GSTN_DLLO_ADMIN_INNOVA](https://github.com/SENA-EXTERNOS/122153-CF6-TG-GSTN_DLLO_ADMIN_INNOVA)
 
 #
 
