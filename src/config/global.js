@@ -118,32 +118,34 @@ export default {
     {
       tema: 'Historia y evolución de los archivos',
       referencia:
-        'Flórez, J. (2011). Guía metodológica para la investigación de historias institucionales. ',
+        'Flórez, J. (2011). <em>Guía metodológica para la investigación de historias institucionales.</em> ',
       tipo: 'PDF',
       link:
-        '14_Guía_Metodológica_Historias_Institucionales.pdf (secretariageneral.gov.co)',
+        'https://archivobogota.secretariageneral.gov.co/sites/default/files/documentacion-archivo/14_Gui%CC%81a_Metodolo%CC%81gica_Historias_Institucionales.pdf',
     },
     {
       tema: 'Historia y evolución de los archivos',
       referencia:
-        'Departamento administrativo de la función pública. (2015). Guía para la organización de archivos de gestión y transferencias documentales.',
+        'Departamento administrativo de la función pública. (2015). <em>Guía para la organización de archivos de gestión y transferencias documentales.</em>',
       tipo: 'PDF',
-      descarga: 'MANUAL DE CALIDAD (funcionpublica.gov.co)',
+      link:
+        'https://www.funcionpublica.gov.co/documents/418537/506991/2.+Guia+para+la+Organizaci%25C3%25B3n+de+los+Archivos+de+Gesti%25C3%25B3n+y+Transferencias+documentales+V3.pdf/040e3005-c101-4ae4-be58-97e56c10bd49',
     },
     {
       tema: 'Documentos',
       referencia:
         'Ley 594 de 2000. Por medio de la cual se dicta la Ley General de Archivos y se dictan otras disposiciones. Julio 14 de 2000. DO. No. 44.093 ',
       tipo: 'Ley',
-      descarga:
+      link:
         'http://www.secretariasenado.gov.co/senado/basedoc/ley_0594_2000.html',
     },
     {
       tema: 'Clasificación documental',
       referencia:
-        'Godoy, J., & López, M. (2001). Cartilla de clasificación Documental. Archivo General de la Nación.',
+        'Godoy, J., & López, M. (2001). <em>Cartilla de clasificación Documental. Archivo General de la Nación.</em>',
       tipo: 'PDF',
-      descarga: 'CLASIFICACION DOCUMENTAL.pdf (archivogeneral.gov.co)',
+      link:
+        'https://www.archivogeneral.gov.co/caja_de_herramientas/docs/5.%20organizacion/MANUALES/CLASIFICACION%20DOCUMENTAL.pdf',
     },
   ],
   glosario: [
@@ -201,18 +203,19 @@ export default {
   referencias: [
     {
       referencia:
-        'Alonso, J., García, M., & Lloveras, M. (s.f.). La norma ISO 15489: Un marco sistemático de buenas prácticas de gestión documental en las organizaciones.',
-      link: 'La norma ISO 15489 (rclis.org)',
+        'Alonso, J., García, M., & Lloveras, M. (s.f.). La norma ISO 15489: <em>Un marco sistemático de buenas prácticas de gestión documental en las organizaciones.</em>',
+      link:
+        'http://eprints.rclis.org/12263/1/Alonso_Garcia_Lloveras_-_La_norma_ISO_15489.pdf',
     },
     {
       referencia:
-        'Archivo General de la Nación. Colombia. (2012). Objetivos. Archivo General de la Nación.',
+        'Archivo General de la Nación. Colombia. (2012). <em>Objetivos.</em> Archivo General de la Nación.',
       link: 'https://www.archivogeneral.gov.co/Conozcanos/objetivos',
     },
     {
       referencia:
-        'Comité Técnico de Normalización número 50. (s.f.). Información y documentación. Gestión de documentos. Informe técnico ISO/TR 15489-1. Universidad de Málaga.',
-      link: 'ISO_15489.2.pdf (uma.es)',
+        'Comité Técnico de Normalización número 50. (s.f.). <em>Información y documentación. Gestión de documentos. Informe técnico ISO/TR 15489-1</em>. Universidad de Málaga.',
+      link: 'https://www.uma.es/media/tinyimages/file/ISO_15489.2.pdf',
     },
     {
       referencia:
@@ -220,13 +223,14 @@ export default {
       link: '',
     },
     {
-      referencia: 'Definición. DE. (2011). Definición de archivo.',
+      referencia: 'Definición. DE. (2011). <em>Definición de archivo.</em>',
       link: 'https://definicion.de/archivo/',
     },
     {
       referencia:
-        'Godoy, J., & López, M. (2001). Cartilla de clasificación Documental. Archivo General de la Nación.',
-      link: 'CLASIFICACION DOCUMENTAL.pdf (archivogeneral.gov.co)',
+        'Godoy, J., & López, M. (2001). <em>Cartilla de clasificación Documental. Archivo General de la Nación.</em>',
+      link:
+        'https://www.archivogeneral.gov.co/caja_de_herramientas/docs/5.%20organizacion/MANUALES/CLASIFICACION%20DOCUMENTAL.pdf',
     },
     {
       referencia:
@@ -235,14 +239,14 @@ export default {
     },
     {
       referencia:
-        'Ministerio de justicia y derecho. (2015). Normograma y gestión documental. ',
+        'Ministerio de justicia y derecho. (2015). <em>Normograma y gestión documental.</em> ',
       link:
         'https://www.minjusticia.gov.co/programas-co/SIG/Informes/Memoria%20-%20Normograma%20y%20documental.pdf',
     },
     {
       referencia:
-        'Parra, G. (2017). La gestión documental en las universidades públicas de Bogotá D.C.: Aplicación Normatividad. Información archivística Rio de Janeiro.',
-      link: '54475 (brapci.inf.br)',
+        'Parra, G. (2017). <em>La gestión documental en las universidades públicas de Bogotá D.C.: Aplicación Normatividad.</em> Información archivística Rio de Janeiro.',
+      link: 'https://brapci.inf.br/index.php/res/download/54475',
     },
   ],
   creditos: {

@@ -40,13 +40,7 @@
       .col-md-7
         p Las razones más comunes que pueden desperdiciar este principio inicial son:
         br
-        br
         ul
-          li 
-            i.fas.fa-check.color-icon-check
-            |
-            | La división o asignación de trabajo, de tal manera que se clarifiquen responsabilidades y se delimiten actividades para acercarse, cada vez más, a la máxima eficiencia y eficacia, simplificando trabajos.
-          br
           li 
             i.fas.fa-check.color-icon-check
             |
@@ -93,7 +87,7 @@
     .row.mb-5
       .col-lg-12.px-5
         .cajon.color_primario_txt_destacado.p-4
-          p Por ello, el mejor método organizativo que se puede aplicar en el archivo es recrear y respetar el orden original en el que los documentos estuvieron o debieron estar en manos de sus creadores. Después de completar los pasos de identificación se pueden clasificar los documentos.
+          p.mb-0 Por ello, el mejor método organizativo que se puede aplicar en el archivo es recrear y respetar el orden original en el que los documentos estuvieron o debieron estar en manos de sus creadores. Después de completar los pasos de identificación se pueden clasificar los documentos.
 
     h3.mb-4
       i.fas.fa-square.color_texto_acento.me-3
@@ -141,7 +135,7 @@
 
     .row
       .tarjeta--container.row.mb-5
-        .col-md.tarjeta.color-primario.p-5
+        .col-md.tarjeta.color-primario-claro.p-5
           .row.justify-content-center.mb-4
             .col-6
               figure(data-aos='zoom-in')
@@ -149,10 +143,10 @@
                   src='@/assets/template/tema03/t3-i7.png',
                   alt='Texto que describa la imagen'
                 )
-
-          h2.text-center Asegurar
-          p.text-center Asegurar el funcionamiento articulado del Sistema Nacional de Archivos.
-        .col-md.tarjeta.color-secundario.p-5
+          h2.text-center Velar
+          p.text-center Velar por la preservación del patrimonio documental de la Nación y facilitar el acceso a dicho patrimonio por parte de la ciudadanía en general.
+          
+        .col-md.tarjeta.color-secundario-claro.p-5
           .row.justify-content-center.mb-4
             .col-6
               figure(data-aos='zoom-in')
@@ -161,9 +155,10 @@
                   alt='Texto que describa la imagen'
                 )
 
-          h2.text-center Promover
-          p.text-center Promover y desarrollar acciones para establecer una cultura integradora de la archivística, la gestión documental y la gestión de la información útil y oportuna para la toma de decisiones y gestión eficiente de la administración.
-        .col-md.tarjeta.color-primario.p-5
+          h2.text-center Custodiar
+          p.text-center Custodiar, conservar, recuperar y difundir el patrimonio documental de la Nación.
+
+        .col-md.tarjeta.color-primario-claro.p-5
           .row.justify-content-center.mb-4
             .col-6
               figure(data-aos='zoom-in')
@@ -171,13 +166,13 @@
                   src='@/assets/template/tema03/t3-i9.png',
                   alt='Texto que describa la imagen'
                 )
+          h2.text-center Coordinar
+          p.text-center Coordinar las instituciones que integran el Sistema Nacional de Archivos para que sean factores de desarrollo Cultural y material del país, en armonía con el Plan Nacional Económico y Social adoptado por el Estado, así como también promover el establecimiento de adecuados servicios de referencia archivística de las instituciones que integran el Sistema Nacional de Archivos.
 
-          h2.text-center Diseñar
-          p.text-center Diseñar y vigilar la implantación del programa de gestión documental articulado con los sistemas de información en la administración pública.
 
     .row.mb-5
       .tarjeta--container.row.mb-5
-        .col-md.tarjeta.color-primario.p-5
+        .col-md.tarjeta.color-secundario-claro.p-5
           .row.justify-content-center.mb-4
             .col-6
               figure(data-aos='zoom-in')
@@ -186,9 +181,10 @@
                   alt='Texto que describa la imagen'
                 )
 
-          h2.text-center Custodiar
-          p.text-center Custodiar, conservar, recuperar y difundir el patrimonio documental de la Nación.
-        .col-md.tarjeta.color-secundario.p-5
+          h2.text-center Asegurar
+          p.text-center Asegurar el funcionamiento articulado del Sistema Nacional de Archivos.
+
+        .col-md.tarjeta.color-primario-claro.p-5
           .row.justify-content-center.mb-4
             .col-6
               figure(data-aos='zoom-in')
@@ -197,19 +193,20 @@
                   alt='Texto que describa la imagen'
                 )
 
-          h2.text-center Coordinar
-          p.text-center Coordinar las instituciones que integran el Sistema Nacional de Archivos para que sean factores de desarrollo Cultural y material del país, en armonía con el Plan Nacional Económico y Social adoptado por el Estado, así como también promover el establecimiento de adecuados servicios de referencia archivística de las instituciones que integran el Sistema Nacional de Archivos.
-        .col-md.tarjeta.color-primario.p-5
+          h2.text-center Promover
+          p.text-center Promover y desarrollar acciones para establecer una cultura integradora de la archivística, la gestión documental y la gestión de la información útil y oportuna para la toma de decisiones y gestión eficiente de la administración.
+
+        .col-md.tarjeta.color-secundario-claro.p-5
           .row.justify-content-center.mb-4
             .col-6
               figure(data-aos='zoom-in')
                 img(
-                  src='@/assets/template/tema03/t3-i9.png',
+                  src='@/assets/template/tema03/t3-i12.png',
                   alt='Texto que describa la imagen'
                 )
 
-          h2.text-center Velar
-          p.text-center Velar por la preservación del patrimonio documental de la Nación y facilitar el acceso a dicho patrimonio por parte de la ciudadanía en general.
+          h2.text-center Diseñar
+          p.text-center Diseñar y vigilar la implantación del programa de gestión documental articulado con los sistemas de información en la administración pública.
 
     h3.mb-4
       i.fas.fa-square.color_texto_acento.me-3
@@ -228,7 +225,7 @@
                   alt='Texto que describa la imagen'
                 )
             .col-lg-10
-              p Adicionalmente, se encuentran las tablas de retención documental que son documentos construidos a partir de las funciones y de la estructura orgánica de cada entidad, son diseñadas a partir de las funciones de cada dependencia y relacionan los diferentes trámites que tiene cada una. En las entidades públicas estas tablas deben ser expuestas en sus sitios oficiales.
+              p.mb-0 Adicionalmente, se encuentran las tablas de retención documental que son documentos construidos a partir de las funciones y de la estructura orgánica de cada entidad, son diseñadas a partir de las funciones de cada dependencia y relacionan los diferentes trámites que tiene cada una. En las entidades públicas estas tablas deben ser expuestas en sus sitios oficiales.
       .col-lg-12.px-5
         .cajon.acento-botones_txt_destacado.p-4
           .row.px-5 
@@ -239,17 +236,22 @@
                   alt='Texto que describa la imagen'
                 )
             .col-lg-10
-              p De acuerdo con la Ley general de archivos en el artículo 24. Obligatoriedad de las tablas de retención, establece que será obligatorio para las entidades del Estado elaborar y adoptar las respectivas tablas de retención documental. Para ampliar la información, se invita a leer el Acuerdo 39 de 2002, por el cual se regula el procedimiento para la elaboración y aplicación de las tablas de retención documental en desarrollo del artículo 24 de la Ley 594 de 2000.
+              p.mb-0 De acuerdo con la Ley general de archivos en el artículo 24.&nbsp;
+                i Obligatoriedad de las tablas de retención,&nbsp;
+                | establece que será obligatorio para las entidades del Estado elaborar y adoptar las respectivas tablas de retención documental. Para ampliar la información, se invita a leer el Acuerdo 39 de 2002, por el cual se regula el procedimiento para la elaboración y aplicación de las tablas de retención documental en desarrollo del artículo 24 de la Ley 594 de 2000.
 
-      
-    .row.justify-content-center.mb-5   
-      .col-lg-8      
-        a.anexo.mb-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
-            .anexo__icono
-              img(src="@/assets/template/icono-link.svg")
-            .anexo__texto
-              strong Enlace Web.
-              | Acuerdo 39 de 2002, por el cual se regula el procedimiento para la elaboración y aplicación de las tablas de retención documental en desarrollo del artículo 24 de la Ley 594 de 2000.
+    .row.justify-content-center.mb-5 
+      .col-lg-8 
+        a.anexo.mb-4.mb-lg-0(
+          href='https://en.wikipedia.org/wiki/Main_Page',
+          target='_blank'
+        )
+          .anexo__icono
+            img(src='@/assets/template/icono-link.svg')
+          .anexo__texto
+            strong Enlace Web.
+            br
+            | Acuerdo 39 de 2002, por el cual se regula el procedimiento para la elaboración y aplicación de las tablas de retención documental en desarrollo del artículo 24 de la Ley 594 de 2000.
 
     h3.mb-4
       i.fas.fa-square.color_texto_acento.me-3
@@ -266,12 +268,12 @@
                   alt='Texto que describa la imagen'
                 )
             .col-lg-10
-              p Adicionalmente, se encuentran las tablas de retención documental que son documentos construidos a partir de las funciones y de la estructura orgánica de cada entidad, son diseñadas a partir de las funciones de cada dependencia y relacionan los diferentes trámites que tiene cada una. En las entidades públicas estas tablas deben ser expuestas en sus sitios oficiales.    
+              p.mb-0 La protección de los materiales contenidos en archivos y bibliotecas requiere de la definición de estrategias y técnicas específicas basadas tanto en medidas preventivas como correctivas, con el fin de asegurar la integridad de los documentos y la garantía de su funcionalidad. Las medidas de conservación de documentos comprenden tanto a los impresos como a los digitales, esta acción pretende prolongar la posibilidad de utilización de los documentos en buenas condiciones durante el mayor tiempo posible.
 
     .row.mb-5
       .col-lg-12.px-5
         .cajon.acento-botones_txt_destacado.p-4
-          p Recuerde explorar los demás recursos que se encuentran disponibles en este componente formativo; para ello, diríjase al menú principal, donde encontrará la síntesis, una actividad didáctica para reforzar los conceptos estudiados, material complementario, entre otros.                
+          p.mb-0 Recuerde explorar los demás recursos que se encuentran disponibles en este componente formativo; para ello, diríjase al menú principal, donde encontrará la síntesis, una actividad didáctica para reforzar los conceptos estudiados, material complementario, entre otros.
 </template>
 
 <script>

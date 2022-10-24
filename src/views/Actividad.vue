@@ -6,7 +6,7 @@
       .titulo-principal__numero
         span
           i.fas.fa-info
-      h1 Actividad didáctica
+      h1 Gestión documental
 
     .row.mb-5.justify-content-center.align-items-center.align-items-lg-stretch
       .col-lg-12.mb-4.mb-md-0

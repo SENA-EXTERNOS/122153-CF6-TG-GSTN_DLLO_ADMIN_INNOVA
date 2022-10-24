@@ -29,7 +29,7 @@
     .row.mb-5
       .col-lg-12.px-5
         .cajon.acento-botones_txt_destacado.p-4
-          p Es así como podemos concluir que los documentos son toda aquella información creada y recibida de cualquier tipo, sea por una organización o por un individuo en el desarrollo de sus actividades con respecto a sus obligaciones legales, sin importar cuál sea su medio utilizado.
+          p.mb-0.mb-0 Es así como podemos concluir que los documentos son toda aquella información creada y recibida de cualquier tipo, sea por una organización o por un individuo en el desarrollo de sus actividades con respecto a sus obligaciones legales, sin importar cuál sea su medio utilizado.
 
     p A continuación, conocerá varias clases de documentos usados:
 
@@ -116,6 +116,21 @@
                   i.fas.fa-check.color-icon-check
                   |
                   | Marcas discursivas.
+                br
+                li 
+                  i.fas.fa-check.color-icon-check
+                  |
+                  | Coherencia y contextualización.
+                br
+                li 
+                  i.fas.fa-check.color-icon-check
+                  |
+                  | Información necesaria.
+                br
+                li 
+                  i.fas.fa-check.color-icon-check
+                  |
+                  | Estructura.
 
     h3.mb-4
       i.fas.fa-square.color_texto_acento.me-3
@@ -179,39 +194,47 @@
     .row.mb-5
       .col-lg-12.px-5
         .cajon.acento-botones_txt_destacado.p-4
-          p Los documentos con el pasar de los años nunca pierden validez, pues son un apoyo tangible para la humanidad, debido a que a lo largo del tiempo recogen datos donde reposa la historia, la evolución e información concreta que se han sucedido en el pasado o que está ocurriendo en el ahora. Dicho de otro modo, los documentos preservan intacta la información que es importante y relevante, permiten conocer la evidencia de crecimiento y desarrollo de una situación en el entorno, además son una constancia física y escrita de un acontecimiento importante en el pasado o en el presente.
+          p.mb-0.mb-0 Los documentos con el pasar de los años nunca pierden validez, pues son un apoyo tangible para la humanidad, debido a que a lo largo del tiempo recogen datos donde reposa la historia, la evolución e información concreta que se han sucedido en el pasado o que está ocurriendo en el ahora. Dicho de otro modo, los documentos preservan intacta la información que es importante y relevante, permiten conocer la evidencia de crecimiento y desarrollo de una situación en el entorno, además son una constancia física y escrita de un acontecimiento importante en el pasado o en el presente.
 
     .row.mb-5
       .col-md-7
-        p Es así como un documento cuenta la historia de una empresa desde sus orígenes hasta su trayectoria actual siendo consecuente con los objetivos trazados desde su inicio. Hoy en día las organizaciones están a la vanguardia de la tecnología, esta es la que le ha restado importancia al manejo de la información en ‘papel’, pues con el pasar de los días los procesos son más eficaces, y con ello la tradición de documentar toda información en grandes bancos de documentos físicos es reemplazada por documentación electrónica almacenada en la nube. Así mismo, cuando se tiene la información guardada de forma virtual las ventajas que obtienen son grandes pues agilizan procesos referentes a la búsqueda de documentos específicos, ahorro en el espacio físico, accesibilidad a documentos en tiempo real para la persona que lo requiera, poseer un soporte que no se deteriore con el pasar de los años y contribuir a la preservación y restauración de documentos.
+        p Es así como un documento cuenta la historia de una empresa desde sus orígenes hasta su trayectoria actual siendo consecuente con los objetivos trazados desde su inicio.
+        | Hoy en día las organizaciones están a la vanguardia de la tecnología, esta es la que le ha restado importancia al manejo de la información en ‘papel’, pues con el pasar de los días los procesos son más eficaces, y con ello la tradición de documentar toda información en grandes bancos de documentos físicos es reemplazada por documentación electrónica almacenada en la nube.
+        br
+        br
+        | Así mismo, cuando se tiene la información guardada de forma virtual las ventajas que obtienen son grandes pues agilizan procesos referentes a la búsqueda de documentos específicos, ahorro en el espacio físico, accesibilidad a documentos en tiempo real para la persona que lo requiera, poseer un soporte que no se deteriore con el pasar de los años y contribuir a la preservación y restauración de documentos.
 
       .col-md-5
         figure(data-aos='zoom-in')
           img(src='@/assets/template/tema02/t2-i13.jpg')
 
     .row.mb-5
-      .col-md-2.col-5
+      .col-md-1.col-5
         figure(data-aos='zoom-in')
           img(src='@/assets/template/tema02/t2-i14.png')
 
-      .col-md-10.col-7
+      .col-md-11.col-7
         p Sin embargo, es importante tener en cuenta las buenas prácticas de digitalización de la documentación con el fin de no presentar pérdida de información y tener el acceso a los documentos de acuerdo a la finalidad de cada proceso, así la información no es divulgada o manipulada.
 
     .row.mb-5
       .col-lg-12
         .cajon.color_primario_txt_destacado.p-4
-          p Sin importar que tipo de información se albergue o el medio usado para su almacenamiento, la documentación ha sido parte de la humanidad para recoger por escrito cualquier tipo de acto o hecho, sea jurídico, social, legal, cultural, entre otros. Al tener documentada la información se tiene constancia de lo acontecido, y en caso de alguna auditoría, indagación o desacuerdo este soporte se puede presentar como prueba o factor determinante en la toma de alguna decisión.
+          p.mb-0 Sin importar que tipo de información se albergue o el medio usado para su almacenamiento, la documentación ha sido parte de la humanidad para recoger por escrito cualquier tipo de acto o hecho, sea jurídico, social, legal, cultural, entre otros. Al tener documentada la información se tiene constancia de lo acontecido, y en caso de alguna auditoría, indagación o desacuerdo este soporte se puede presentar como prueba o factor determinante en la toma de alguna decisión.
 
     .row.mb-5
       .col-lg-12.px-5
         .cajon.acento-botones_txt_destacado.p-4
-          p Las organizaciones diariamente producen documentos, y la administración debe velar para que este proceso, desde su origen hasta su destino final, se haga de manera correcta, ya que estos documentos representan el activo más importante de la organización, por ello su custodia y conservación merecen una especial atención.
+          p.mb-0 Las organizaciones diariamente producen documentos, y la administración debe velar para que este proceso, desde su origen hasta su destino final, se haga de manera correcta, ya que estos documentos representan el activo más importante de la organización, por ello su custodia y conservación merecen una especial atención.
 
     p De acuerdo con lo anterior, se puede concluir que los documentos son importantes en las organizaciones porque aportan en su historia, organización, control, fuente de información y toma de decisiones. A continuación, se muestra cada uno de ellos:
 
-    .col-lg-12.p-3
+    .col-lg-12.p-3.mb-5
       figure(data-aos='zoom-in')
         img(src='@/assets/template/tema02/t2-i15.jpg')
+
+    h3.mb-4
+      i.fas.fa-square.color_texto_acento.me-3
+      | Clasificación de los documentos
 
     p Recordemos que los documentos son los escritos, impresos, planos, dibujos, cuadros, mensajes de datos, fotografías, cintas cinematográficas, discos, grabaciones magnetofónicas, videograbaciones, radiografías, talones, contraseñas, cupones, etiquetas, sellos, y en general, todo objeto que tenga carácter representativo o declarativo, así como las inscripciones en lápidas, monumentos, edificios o similares.
     br
@@ -231,10 +254,12 @@
               p.mb-0 Se clasifican en:
               br
               strong Documentos público:
+              br
               | es aquel que es otorgado o autorizado por la ley o por un registrador, notario, secretario judicial u otro funcionario.
               br
               br
               strong Documentos privado:
+              br
               | es redactado por las partes interesadas sin necesidad de la intervención de un funcionario que le dé autoridad.
 
           .row(titulo='Su finalidad')
@@ -242,15 +267,17 @@
               p.mb-0 Se pueden clasificar en:
               br
               strong Documentos dispositivos:
+              br
               | son todas las normas de obligatorio cumplimiento entre las cuales se encuentran: leyes, decretos, ordenanzas, acuerdos y resoluciones.
               br
               br
               strong Documentos informativos:
+              br
               | aquellos documentos de la función administrativa de una empresa.
               br
               br
               strong Documentos testimoniales:
-              |
+              br
               | son usados como prueba o testimonio.
 
           .row(titulo='Su funcionalidad')
@@ -258,10 +285,12 @@
               p.mb-0 Se pueden clasificar en:
               br
               strong Documentos específicos:
+              br
               | aquellos que soportan las funciones y objetivos de la empresa u organización.
               br
               br
               strong Documentos comunes:
+              br
               | su función es apoyar la gestión empresarial.
 
     h3.mb-4
@@ -271,7 +300,7 @@
     .row.mb-5
       .col-lg-12
         .cajon.color_primario_txt_destacado.p-4
-          p Ahora estudiemos el concepto de tipología documental, el cual se refiere a los diversos formatos y tipos de documentos que selecciona y desarrolla una entidad en particular aplicados en las tareas de producción o recepción de documentos, de esta forma crear una dinámica unificada de todos los servicios y fuentes de archivos.
+          p.mb-0 Ahora estudiemos el concepto de tipología documental, el cual se refiere a los diversos formatos y tipos de documentos que selecciona y desarrolla una entidad en particular aplicados en las tareas de producción o recepción de documentos, de esta forma crear una dinámica unificada de todos los servicios y fuentes de archivos.
 
     .row.mb-5
       .col-md-5
@@ -281,13 +310,12 @@
       .col-md-7
         p Esta tipología es central, depende de los caracteres internos y externos que surgen o se determinan en el momento de la creación del documento y teniendo en cuenta la necesidad de un proceso para su creación. En el expediente administrativo se crea y gestionan documentos con características prácticas definidas en su diseño, asimismo revelar y cumplir los requisitos para la realización del trámite. Se debe asignar al expediente un nombre que puede ser arbitrario y regulado por alguna normativa.
 
-    p Los documentos se clasifican en tres categorías, de acuerdo a su naturaleza, finalidad y funcionalidad. A continuación se dará una breve explicación de ellas:
+    p En general, se pueden encontrar varios tipos de documentos en diferentes unidades administrativas, y se clasifican de acuerdo con:
 
     .row.mb-5
-      .col-lg-8.order-2.order-lg-1
-        TabsA.color-acento-contenido.mb-5 
+      .col-lg-8.order-1.order-lg-1
+        TabsA.color-acento-contenido.mb-5.fz-10
           .tarjeta.clr-paleYellow.p-4(titulo='El contenido')
-            h4 El contenido
             ul
               li 
                 i.fas.fa-check.color-icon-check
@@ -311,7 +339,6 @@
                 | Documentos facilitativos
 
           .tarjeta.clr-paleYellow.p-4(titulo='La tradición documental')
-            h4 La tradición documental
             ul
               li 
                 i.fas.fa-check.color-icon-check
@@ -331,7 +358,6 @@
                 | Minuta
 
           .tarjeta.clr-paleYellow.p-4(titulo='El nivel de accesibilidad')
-            h4 El nivel de accesibilidad
             ul
               li 
                 i.fas.fa-check.color-icon-check
@@ -351,7 +377,6 @@
                 | Documentos confidenciales
 
           .tarjeta.clr-paleYellow.p-4(titulo='La clase')
-            h4 La clase
             ul
               li 
                 i.fas.fa-check.color-icon-check
@@ -383,7 +408,6 @@
                 | Documentos materiales
 
           .tarjeta.clr-paleYellow.p-4(titulo='El ente o autor')
-            h4 El ente o autor
             ul
               li 
                 i.fas.fa-check.color-icon-check
@@ -411,7 +435,8 @@
           img(src='@/assets/template/tema02/t2-i19.jpg')
 
       .col-md-7
-        p Llegamos así a la gestión documental, procedimiento mediante el cual una entidad resguarda, clasifica y ordena los documentos desde su origen hasta su disposición final, cumpliendo principios que garanticen la fidelidad y conservación de estos. Cada entidad debe aplicar un sistema de gestión que le garantice realizar un monitoreo constante, evaluando condiciones de almacenamiento, responsables y técnicas adecuadas para su permanencia.
+        p Llegamos así a la gestión documental, procedimiento mediante el cual una entidad resguarda, clasifica y ordena los documentos desde su origen hasta su disposición final, cumpliendo principios que garanticen la fidelidad y conservación de estos.
+        | Cada entidad debe aplicar un sistema de gestión que le garantice realizar un monitoreo constante, evaluando condiciones de almacenamiento, responsables y técnicas adecuadas para su permanencia.
 
     p.mb-5 De acuerdo con las pautas otorgadas por el Archivo Central, como ente rector de la política archivística, se aborda el proceso tendiente a lograr una clasificación adecuada de los documentos que faciliten su conservación. Para la adecuada organización de archivos se debe seguir un proceso en donde se establece el vínculo origen que tuvo el documento desde su creación hasta su disposición final, como se presenta a continuación.
 
@@ -421,7 +446,12 @@
           .row.p-5
             .col-md-8.mb-4.mb-md-0
               h3 Clasificación
-              p Es la identificación de documentos con características similares, teniendo en cuenta la estructura organizacional de la entidad y los trámites adelantados en cada una de sus dependencias; como resultando se obtienen agrupaciones de acuerdo a cada campo de trabajo. Según Godoy, J. & López, M. (2001) en la Cartilla de clasificación documental del Archivo Central indican que como proceso archivístico, la clasificación permite la identificación y el agrupamiento sistemático de documentos semejantes con características comunes como teniendo como la base la estructura orgánico - funcional de las instituciones y los trámites administrativos que adelantan las dependencias en el ejercicio de sus funciones. La clasificación debe reflejar la estructura de cada entidad de tal manera que las agrupaciones documentales resultantes correspondan a las subdivisiones que conforman la institución. (p. 7). Dicha clasificación se detalla de la siguiente manera:
+              p Es la identificación de documentos con características similares, teniendo en cuenta la estructura organizacional de la entidad y los trámites adelantados en cada una de sus dependencias; como resultando se obtienen agrupaciones de acuerdo a cada campo de trabajo.
+                br
+                br
+                | Según Godoy, J. & López, M. (2001) en la&nbsp;
+                i Cartilla de clasificación documental&nbsp;
+                | del Archivo Central indican que como proceso archivístico, la clasificación permite la identificación y el agrupamiento sistemático de documentos semejantes con características comunes como teniendo como la base la estructura orgánico - funcional de las instituciones y los trámites administrativos que adelantan las dependencias en el ejercicio de sus funciones. La clasificación debe reflejar la estructura de cada entidad de tal manera que las agrupaciones documentales resultantes correspondan a las subdivisiones que conforman la institución. (p. 7). Dicha clasificación se detalla de la siguiente manera:
                 .col-auto
                   a.boton.color-acento-botones.indicador__container.text-white(
                     @click='modal1 = true'
@@ -440,7 +470,8 @@
           .row.p-5
             .col-md-8.mb-4.mb-md-0
               h3 Ordenación
-              p Son esquemas que muestran la jerarquización y clasificación documental de la organización se pueden hacer de manera numérica o alfanumérica, en donde cada digito representará el nivel jerárquico que tendrá la organización. Ejemplo:
+              p Son esquemas que muestran la jerarquización y clasificación documental de la organización se pueden hacer de manera numérica o alfanumérica, en donde cada digito representará el nivel jerárquico que tendrá la organización.
+              | Ejemplo:
               br
               ul
                 li 
@@ -502,8 +533,8 @@
                 caption Nota. Tomada de la Cartilla de clasificación documental (2001).
                 thead
                   tr
-                    th AGRUPACIONES DOCUMENTALES
-                    th ESTRUCTURA ORGÁNICA
+                    th Agrupaciones documentales
+                    th Estructura orgánica
                 tbody.text-center
                   tr
                     td Fondo documental
@@ -519,12 +550,12 @@
 
       .col-lg-12.px-5
         .cajon.acento-botones_txt_destacado.p-4
-          p Para explicar mejor la clasificación documental, se tomará como ejemplo el caso de un municipio en donde el fondo documental hace referencia a todos los documentos originados o recibidos en la administración de este municipio, y tendría el nombre de Fondo Documental Municipal de la ciudad que corresponda.
+          p.mb-0 Para explicar mejor la clasificación documental, se tomará como ejemplo el caso de un municipio en donde el fondo documental hace referencia a todos los documentos originados o recibidos en la administración de este municipio, y tendría el nombre de Fondo Documental Municipal de la ciudad que corresponda.
 
     .row.mb-5
       .col-lg-12
         .cajon.color_primario_txt_destacado.p-4
-          p Las secciones documentales están conformadas por el conjunto de documentos originados o recibidos en cada dependencia de esa administración, para este caso secretarías, y tendría el nombre de Sección Documental de la Secretaría de Gobierno, Agricultura, entre otros.
+          p.mb-0 Las secciones documentales están conformadas por el conjunto de documentos originados o recibidos en cada dependencia de esa administración, para este caso secretarías, y tendría el nombre de Sección Documental de la Secretaría de Gobierno, Agricultura, entre otros.
 
     p Las subsecciones estarán conformadas por los documentos producidos o recibidos en los grupos de trabajo de cada dependencia, para este caso de cada secretaría.
 
@@ -532,7 +563,8 @@
       i.fas.fa-square.color_texto_acento.me-3
       | Elementos de protección personal
 
-    p En la gestión documental es fundamental el proceso de conservación de documentos, así como el equipamiento y lugar de almacenaje de dicha información, además se debe garantizar la accesibilidad y protección del personal responsable de esta. Se deben identificar factores como tipo de documentos y de formato físico o digital, objetivos que suplen, y todos aquellos que indiquen las características que deben tener el equipamiento y lugar de almacenaje, así como la indumentaria para su manipulación.
+    p En la gestión documental es fundamental el proceso de conservación de documentos, así como el equipamiento y lugar de almacenaje de dicha información, además se debe garantizar la accesibilidad y protección del personal responsable de esta.
+    p.mb-5 Se deben identificar factores como tipo de documentos y de formato físico o digital, objetivos que suplen, y todos aquellos que indiquen las características que deben tener el equipamiento y lugar de almacenaje, así como la indumentaria para su manipulación.
 
     .row
       .col-12.mb-5

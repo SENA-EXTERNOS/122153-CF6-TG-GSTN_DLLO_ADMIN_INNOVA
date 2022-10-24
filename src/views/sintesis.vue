@@ -5,13 +5,13 @@
     .row 
       .col-lg-10.col-12 
         .titulo-sexto.color-acento-botones.mb-5
-          h5 Gestión del desarrollo administrativo e innovación
+          h5 Gestión documental
           br
           span Síntesis: Introducción a la administración
       .col-lg-2.d-none.d-lg-block
         img(src="@/assets/template/logo-sena-naranja.svg", height="60"  alt="alt")
         
-    p.mb-5 Para dar cierre a este componente formativo, lo invitamos a dar un recorrido por las temáticas aquí abordadas.
+    p.mb-5 El siguiente mapa conceptual integra los criterios y especificidades de los conocimientos expuestos en el presente componente formativo.
 
     .row.justify-content-center
       .col-lg-10.mb-5
