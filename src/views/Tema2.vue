@@ -253,44 +253,37 @@
             .col-12
               p.mb-0 Se clasifican en:
               br
-              strong Documentos público:
-              br
+              strong Documentos público:&nbsp;
               | es aquel que es otorgado o autorizado por la ley o por un registrador, notario, secretario judicial u otro funcionario.
               br
               br
-              strong Documentos privado:
-              br
+              strong Documentos privado:&nbsp;
               | es redactado por las partes interesadas sin necesidad de la intervención de un funcionario que le dé autoridad.
 
           .row(titulo='Su finalidad')
             .col-12
               p.mb-0 Se pueden clasificar en:
               br
-              strong Documentos dispositivos:
-              br
+              strong Documentos dispositivos:&nbsp;
               | son todas las normas de obligatorio cumplimiento entre las cuales se encuentran: leyes, decretos, ordenanzas, acuerdos y resoluciones.
               br
               br
-              strong Documentos informativos:
-              br
+              strong Documentos informativos:&nbsp;
               | aquellos documentos de la función administrativa de una empresa.
               br
               br
-              strong Documentos testimoniales:
-              br
+              strong Documentos testimoniales:&nbsp;
               | son usados como prueba o testimonio.
 
           .row(titulo='Su funcionalidad')
             .col-12
               p.mb-0 Se pueden clasificar en:
               br
-              strong Documentos específicos:
-              br
+              strong Documentos específicos:&nbsp;
               | aquellos que soportan las funciones y objetivos de la empresa u organización.
               br
               br
-              strong Documentos comunes:
-              br
+              strong Documentos comunes:&nbsp;
               | su función es apoyar la gestión empresarial.
 
     h3.mb-4

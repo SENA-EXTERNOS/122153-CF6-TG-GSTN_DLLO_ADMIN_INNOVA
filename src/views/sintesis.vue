@@ -5,9 +5,9 @@
     .row 
       .col-lg-10.col-12 
         .titulo-sexto.color-acento-botones.mb-5
-          h5 Gestión documental
+          h5 Gestión del desarrollo administrativo e innovación 
           br
-          span Síntesis: Introducción a la administración
+          span Síntesis: Gestión documental
       .col-lg-2.d-none.d-lg-block
         img(src="@/assets/template/logo-sena-naranja.svg", height="60"  alt="alt")
         
