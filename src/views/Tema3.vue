@@ -243,7 +243,7 @@
     .row.justify-content-center.mb-5 
       .col-lg-8 
         a.anexo.mb-4.mb-lg-0(
-          href='https://en.wikipedia.org/wiki/Main_Page',
+          href='https://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i=6351',
           target='_blank'
         )
           .anexo__icono
