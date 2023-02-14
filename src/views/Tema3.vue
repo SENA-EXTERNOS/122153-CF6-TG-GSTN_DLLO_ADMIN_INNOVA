@@ -13,7 +13,7 @@
           img(src='@/assets/template/tema03/t3-i1.jpg')
 
       .col-md-7
-        p Los instrumentos archivísticos de acuerdo al Archivo General de la Nación en el decreto 1080 de 2015, son herramientas de gestión documental que permiten a la entidad el manejo óptimo de su acervo documental de acuerdo con los lineamientos establecidos. (Capítulo V).
+        p Los instrumentos archivísticos, de acuerdo con el Archivo General de la Nación en el decreto 1080 del 2015, son herramientas de gestión documental que permiten a la entidad, el manejo óptimo de su acervo documental, de acuerdo con los lineamientos establecidos (Capítulo V).
 
     p Existen dos principios básicos de archivo:
 
@@ -236,9 +236,7 @@
                   alt='Texto que describa la imagen'
                 )
             .col-lg-10
-              p.mb-0 De acuerdo con la Ley general de archivos en el artículo 24.&nbsp;
-                i Obligatoriedad de las tablas de retención,&nbsp;
-                | establece que será obligatorio para las entidades del Estado elaborar y adoptar las respectivas tablas de retención documental. Para ampliar la información, se invita a leer el Acuerdo 39 de 2002, por el cual se regula el procedimiento para la elaboración y aplicación de las tablas de retención documental en desarrollo del artículo 24 de la Ley 594 de 2000.
+              p.mb-0 De acuerdo con la Ley general de archivos en el artículo 24. Obligatoriedad de las tablas de retención, establece que será obligatorio para las entidades del Estado elaborar y adoptar las respectivas tablas de retención documental. Para ampliar la información, se invita a leer el <b>Acuerdo 39 del 2002</b>, por el cual se regula el procedimiento para la elaboración y aplicación de las tablas de retención documental en desarrollo del artículo 24 de la Ley 594 del 2000.
 
     .row.justify-content-center.mb-5 
       .col-lg-8 

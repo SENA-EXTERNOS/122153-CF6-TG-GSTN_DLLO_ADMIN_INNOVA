@@ -13,13 +13,9 @@
           img(src='@/assets/template/tema01/t1-i1.jpg')
 
       .col-md-7
-        p Es necesario iniciar este componente conociendo de dónde proviene la palabra archivo, esta procede del latín&nbsp;
-          i archivum,&nbsp;
-          | aunque su origen más remoto se encuentra en la lengua griega y puede traducirse como ‘residencia de los magistrados’. El término se utiliza para nombrar al conjunto ordenado de documentos que una sociedad, una institución o una persona elabora en el marco de sus actividades y funciones.
+        p Se hace necesario, iniciar este componente conociendo de dónde proviene la palabra archivo; esta procede del latín archivum, aunque su origen más remoto se encuentra en la lengua griega y puede traducirse como ‘residencia de los magistrados’. El término se utiliza para nombrar al conjunto ordenado de documentos que una sociedad, una institución o una persona, elaboran en el marco de sus actividades y funciones. 
           |
-          strong (Definición. De, 2011,
-            i definición de archivo
-          | , párr. 1).
+          strong (Definición. De, 2011, #[i definición de archivo], párr. 1).
 
     p Para conocer la importancia de la historia de los archivos en la sociedad se invita a ver el siguiente video:
 
@@ -41,12 +37,12 @@
       i.fas.fa-square.color_texto_acento.me-3
       | Historia institucional en el marco de la archivística
 
-    p Es importante conocer, también, sobre el estudio de la historia institucional, este según Gómez, J. (s.f.), es el análisis histórico de las instituciones que integran la organización administrativa del estado, desde el origen jurídico que las fundamenta. Se ocupa de comprender a las instituciones políticas en su función administrativa, estructura, evolución histórica y en su proceso de acción o intervención en la sociedad (p. 1).
+    p Es importante conocer, también, sobre el estudio de la historia institucional; este según Gómez, J. (s.f.), es el análisis histórico de las instituciones que integran la organización administrativa del Estado, desde el origen jurídico que las fundamenta. Se ocupa de comprender a las instituciones políticas en su función administrativa, estructura, evolución histórica y en su proceso de acción o intervención en la sociedad (p. 1).
 
     .row.mb-5
       .col-lg-12
         .cajon.color_primario_txt_destacado.p-4
-          p.mb-0 En ella se resaltan los cambios que han tenido las instituciones a lo largo del tiempo determinando aspectos trascendentales y necesarios como lo es el alcance, este permite reconocer y construir una recopilación memorial desde sus orígenes legales, antecedentes y desarrollo de funciones, hasta el contenido en donde se detalla la transformación administrativa estructural resultante de la evolución de esta normativa o rediseño orgánico-funcional de la institución.
+          p.mb-0 En ella se resaltan los cambios que han tenido las instituciones a lo largo del tiempo, determinando aspectos trascendentales y necesarios como es el alcance, el cual permite reconocer y construir una recopilación memorial desde sus orígenes legales, antecedentes y desarrollo de funciones, hasta el contenido en donde se detalla la transformación administrativa estructural, resultante de la evolución de esta normativa o rediseño orgánico-funcional de la institución.
 
     .row.mb-5
       .col-md-7
@@ -78,18 +74,19 @@
     .row.mb-5
       .col-lg-12.px-5
         .cajon.acento-botones_txt_destacado.p-4
-          p.mb-0 Además de las normas, es importante conocer las leyes que tiene el estado colombiano para reglamentar lo concerniente a los archivos desde su creación hasta el acceso y uso de los mensajes de datos, del comercio electrónico y las firmas digitales, de esta forma garantizar el uso correcto y adecuado de los documentos.
+          p.mb-0 Además de las normas, es importante conocer las leyes que tiene el Estado colombiano para reglamentar lo concerniente a los archivos, desde su creación hasta el acceso y uso de los mensajes de datos, del comercio electrónico y las firmas digitales, para, de esta forma, garantizar el uso correcto y adecuado de los documentos.
 
-    p.mb-5 La siguiente imagen presenta la distribución gráfica de las normas de gestión documental y descripción archivística
+    p.mb-5 La siguiente imagen presenta la distribución gráfica de las normas de gestión documental y descripción archivística:
 
     .row.d-flex.justify-content-center.mb-5
       .col-lg-11.col-md-10.col-12
         .titulo-sexto.color-acento-contenido.mb-3
-          h5 Figura 1.
-          span Normas de gestión documental y descripción archivística
+          h5 Figura 1
+          br
+          span #[i Normas de gestión documental y descripción archivística]
       .col-lg-11
         figure(data-aos='zoom-in')
-          img(src='@/assets/template/tema01/t1-i4.jpg', alt='')
+          img(src='@/assets/template/tema01/1.jpg', alt='')
 
     p.mb-5 A continuación, conocerá algunas de las normas de gestión documental y descripción archivística:
 
@@ -164,8 +161,8 @@
           img(src='@/assets/template/tema01/t1-i7.jpg')
 
       .col-md-10.col-7
-        p Las instituciones emplean los organigramas como una herramienta visual que les ayuda de manera grafica a delimitar y fijar jerarquías, funciones y responsabilidades. Estos a su vez permiten tener una mejor división del trabajo y un mayor control en la comunicación interna de los colaboradores.
-        | La normativa cambiante obliga a las entidades, en su mayoría estatales, a realizar modificaciones constantes en su estructura orgánica y funcional, mientras que en las entidades privadas dependen más de sus políticas internas.
+        p Las instituciones emplean los organigramas como una herramienta visual que les ayuda, de manera gráfica, a delimitar y fijar jerarquías, funciones y responsabilidades. Estos a su vez permiten tener una mejor división del trabajo y un mayor control en la comunicación interna de los colaboradores. 
+        | La normativa cambiante obliga a las entidades, en su mayoría estatales, a realizar modificaciones constantes en su estructura orgánica y funcional, mientras que en las entidades privadas, dependen más de sus políticas internas. 
 
     h3.mb-4
       i.fas.fa-square.color_texto_acento.me-3
@@ -177,8 +174,7 @@
           img(src='@/assets/template/tema01/t1-i8.jpg')
 
       .col-md-7
-        p Las organizaciones deben dar balances de todas sus actuaciones, por lo tanto, es de su competencia revisar a qué normas obedece con el objetivo de dar cumplimiento, así mismo, estas deben ser socializadas con sus colaboradores. Es por ello que el uso de un ‘normograma’ facilita dicha tarea, ya que es una herramienta que permite a las entidades públicas y privadas delimitar las normas que regulan sus actuaciones en desarrollo con su objeto misional.&nbsp;
-          i (Normograma y gestión documental, Ministerio de justicia y derecho, 2015, p. 3).
+        p Las organizaciones deben entregar balances de todas sus actuaciones; por lo tanto, es de su competencia revisar a qué normas obedecen, con el objetivo de dar cumplimiento y, así mismo, estas deben ser socializadas con sus colaboradores. Es por eso que el uso de un ‘normograma’ facilita dicha tarea, porque es una herramienta que permite a las entidades públicas y privadas, delimitar las normas que regulan sus actuaciones, en desarrollo con su objeto misional. (Normograma y gestión documental, Ministerio de justicia y derecho, 2015, p. 3).
 
         a.anexo.mb-4.mb-lg-0(
           href='https://www.minjusticia.gov.co/programas-co/SIG/Informes/Memoria%20-%20Normograma%20y%20documental.pdf',
@@ -188,7 +184,7 @@
             img(src='@/assets/template/icono-link.svg')
           .anexo__texto
             strong Enlace web.
-            | Para conocer un ejemplo de normograma haga clic en Normograma y Gestión documental.
+            | Para conocer un ejemplo de normograma haga clic en #[b Normograma y Gestión documental.]
 
     p El normograma debe incluir la normativa tanto externa como interna (Ministerio de justicia y derecho, 2015).
 

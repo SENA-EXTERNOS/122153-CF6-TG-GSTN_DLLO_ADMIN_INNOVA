@@ -230,7 +230,7 @@
 
     .col-lg-12.p-3.mb-5
       figure(data-aos='zoom-in')
-        img(src='@/assets/template/tema02/t2-i15.jpg')
+        img(src='@/assets/template/tema02/1.svg')
 
     h3.mb-4
       i.fas.fa-square.color_texto_acento.me-3
@@ -251,40 +251,29 @@
         AcordionA.mb-5(tipo='a', clase-tarjeta='tarjeta acordeonA')
           .row(titulo='Su naturaleza')
             .col-12
-              p.mb-0 Se clasifican en:
-              br
-              strong Documentos público:&nbsp;
-              | es aquel que es otorgado o autorizado por la ley o por un registrador, notario, secretario judicial u otro funcionario.
-              br
-              br
-              strong Documentos privado:&nbsp;
-              | es redactado por las partes interesadas sin necesidad de la intervención de un funcionario que le dé autoridad.
+              p Se clasifican en:
+
+              p <b>Documento público:</b> es aquel que es otorgado o autorizado por la ley o por un registrador, notario, secretario judicial u otro funcionario.
+
+              p <b>Documento privado:</b> es redactado por las partes interesadas, sin necesidad de la intervención de un funcionario que le dé autoridad.
 
           .row(titulo='Su finalidad')
             .col-12
-              p.mb-0 Se pueden clasificar en:
-              br
-              strong Documentos dispositivos:&nbsp;
-              | son todas las normas de obligatorio cumplimiento entre las cuales se encuentran: leyes, decretos, ordenanzas, acuerdos y resoluciones.
-              br
-              br
-              strong Documentos informativos:&nbsp;
-              | aquellos documentos de la función administrativa de una empresa.
-              br
-              br
-              strong Documentos testimoniales:&nbsp;
-              | son usados como prueba o testimonio.
+              p Se pueden clasificar en:
+
+              p <b>Documentos dispositivos:</b> son todas las normas de obligatorio cumplimiento entre las cuales se encuentran: leyes, decretos, ordenanzas, acuerdos y resoluciones.
+
+              p <b>Documentos informativos:</b> aquellos documentos de la función administrativa de una empresa.
+
+              p <b>Documentos testimoniales:</b> son usados como prueba o testimonio.
 
           .row(titulo='Su funcionalidad')
             .col-12
-              p.mb-0 Se pueden clasificar en:
-              br
-              strong Documentos específicos:&nbsp;
-              | aquellos que soportan las funciones y objetivos de la empresa u organización.
-              br
-              br
-              strong Documentos comunes:&nbsp;
-              | su función es apoyar la gestión empresarial.
+              p Se pueden clasificar en:
+
+              p <b>Documentos específicos:</b> aquellos que soportan las funciones y objetivos de la empresa u organización.
+
+              p <b>Documentos comunes:</b> su función es apoyar la gestión empresarial.
 
     h3.mb-4
       i.fas.fa-square.color_texto_acento.me-3
@@ -331,7 +320,7 @@
                 |
                 | Documentos facilitativos
 
-          .tarjeta.clr-paleYellow.p-4(titulo='La tradición documental')
+          .tarjeta.clr-paleYellow.p-4(titulo='La tradición<br> documental')
             ul
               li 
                 i.fas.fa-check.color-icon-check
@@ -350,7 +339,7 @@
                 |
                 | Minuta
 
-          .tarjeta.clr-paleYellow.p-4(titulo='El nivel de accesibilidad')
+          .tarjeta.clr-paleYellow.p-4(titulo='El nivel de<br> accesibilidad')
             ul
               li 
                 i.fas.fa-check.color-icon-check
@@ -438,13 +427,10 @@
         SlyderA(tipo='b')
           .row.p-5
             .col-md-8.mb-4.mb-md-0
-              h3 Clasificación
-              p Es la identificación de documentos con características similares, teniendo en cuenta la estructura organizacional de la entidad y los trámites adelantados en cada una de sus dependencias; como resultando se obtienen agrupaciones de acuerdo a cada campo de trabajo.
-                br
-                br
-                | Según Godoy, J. & López, M. (2001) en la&nbsp;
-                i Cartilla de clasificación documental&nbsp;
-                | del Archivo Central indican que como proceso archivístico, la clasificación permite la identificación y el agrupamiento sistemático de documentos semejantes con características comunes como teniendo como la base la estructura orgánico - funcional de las instituciones y los trámites administrativos que adelantan las dependencias en el ejercicio de sus funciones. La clasificación debe reflejar la estructura de cada entidad de tal manera que las agrupaciones documentales resultantes correspondan a las subdivisiones que conforman la institución. (p. 7). Dicha clasificación se detalla de la siguiente manera:
+              h4 Clasificación
+              p Es la identificación de documentos con características similares, teniendo en cuenta la estructura organizacional de la entidad y los trámites adelantados en cada una de sus dependencias; como resultado, se obtienen agrupaciones, de acuerdo con cada campo de trabajo. 
+              p Según Godoy, J. & López, M. (2001) en la Cartilla de clasificación documental del Archivo Central, indican que, como proceso archivístico, la clasificación permite la identificación y el agrupamiento sistemático de documentos semejantes con características comunes, teniendo como la base la estructura orgánico - funcional de las instituciones y los trámites administrativos que adelantan las dependencias en el ejercicio de sus funciones. La clasificación debe reflejar la estructura de cada entidad, de tal manera que las agrupaciones documentales resultantes correspondan con las subdivisiones que conforman la institución. (p 7). Dicha clasificación se detalla de la siguiente manera:
+
                 .col-auto
                   a.boton.color-acento-botones.indicador__container.text-white(
                     @click='modal1 = true'
@@ -462,24 +448,19 @@
 
           .row.p-5
             .col-md-8.mb-4.mb-md-0
-              h3 Ordenación
+              h4 Ordenación
               p Son esquemas que muestran la jerarquización y clasificación documental de la organización se pueden hacer de manera numérica o alfanumérica, en donde cada digito representará el nivel jerárquico que tendrá la organización.
               | Ejemplo:
-              br
-              ul
+
+              ul.mt-4
                 li 
-                  i.fas.fa-check.color-icon-check
-                  |
+                  i.fas.fa-check.color-icon-check.pe-2
                   | Primer dígito: alcaldía.
-                br
                 li 
-                  i.fas.fa-check.color-icon-check
-                  |
+                  i.fas.fa-check.color-icon-check.pe-2
                   | Segundo dígito: secretarías.
-                br
                 li 
-                  i.fas.fa-check.color-icon-check
-                  |
+                  i.fas.fa-check.color-icon-check.pe-2
                   | Tercer dígito: oficinas dependientes de las secretarías.
 
             .col-md-4
@@ -490,15 +471,14 @@
                 )
           .row.p-5 
             .col-md-7.mb-4.mb-md-0
-              h3 Procedimientos técnicos
+              h4 Procedimientos técnicos
               p De acuerdo con lo contemplado en la ISO 15489-2 se relacionan los siguientes:
-              br
+
               | Incorporación
               br
               | Registro
               br
               | Clasificación
-              |
               | Asignación de acceso y seguridad
               br
               | Definición de la disposición
