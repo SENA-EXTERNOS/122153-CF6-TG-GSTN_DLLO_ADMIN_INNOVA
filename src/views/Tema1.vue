@@ -174,7 +174,7 @@
           img(src='@/assets/template/tema01/t1-i8.jpg')
 
       .col-md-7
-        p Las organizaciones deben entregar balances de todas sus actuaciones; por lo tanto, es de su competencia revisar a qué normas obedecen, con el objetivo de dar cumplimiento y, así mismo, estas deben ser socializadas con sus colaboradores. Es por eso que el uso de un ‘normograma’ facilita dicha tarea, porque es una herramienta que permite a las entidades públicas y privadas, delimitar las normas que regulan sus actuaciones, en desarrollo con su objeto misional. (Normograma y gestión documental, Ministerio de justicia y derecho, 2015, p. 3).
+        p Las organizaciones deben entregar balances de todas sus actuaciones; por lo tanto, es de su competencia revisar a qué normas obedecen, con el objetivo de dar cumplimiento y, así mismo, estas deben ser socializadas con sus colaboradores. Es por eso que el uso de un ‘normograma’ facilita dicha tarea, porque es una herramienta que permite a las entidades públicas y privadas, delimitar las normas que regulan sus actuaciones, en desarrollo con su objeto misional. (Normograma y gestión documental, Ministerio de justicia y derecho, 2015, p. 3)
 
         a.anexo.mb-4.mb-lg-0(
           href='https://www.minjusticia.gov.co/programas-co/SIG/Informes/Memoria%20-%20Normograma%20y%20documental.pdf',

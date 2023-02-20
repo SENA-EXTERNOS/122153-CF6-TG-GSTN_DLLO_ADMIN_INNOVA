@@ -302,103 +302,103 @@
               li 
                 i.fas.fa-check.color-icon-check
                 |
-                | Documentos dispositivos o imperativos
+                | Documentos dispositivos o imperativos.
               li 
                 i.fas.fa-check.color-icon-check
                 |
-                | Testimoniales o probatorios
+                | Testimoniales o probatorios.
               li 
                 i.fas.fa-check.color-icon-check
                 |
-                | Informativos o noticiosos
+                | Informativos o noticiosos.
               li 
                 i.fas.fa-check.color-icon-check
                 |
-                | Documentos sustantivos
+                | Documentos sustantivos.
               li 
                 i.fas.fa-check.color-icon-check
                 |
-                | Documentos facilitativos
+                | Documentos facilitativos.
 
           .tarjeta.clr-paleYellow.p-4(titulo='La tradición<br> documental')
             ul
               li 
                 i.fas.fa-check.color-icon-check
                 |
-                | Original
+                | Original.
               li 
                 i.fas.fa-check.color-icon-check
                 |
-                | Copia
+                | Copia.
               li 
                 i.fas.fa-check.color-icon-check
                 |
-                | Borrador
+                | Borrador.
               li 
                 i.fas.fa-check.color-icon-check
                 |
-                | Minuta
+                | Minuta.
 
           .tarjeta.clr-paleYellow.p-4(titulo='El nivel de<br> accesibilidad')
             ul
               li 
                 i.fas.fa-check.color-icon-check
                 |
-                | Documentos publicados
+                | Documentos publicados.
               li 
                 i.fas.fa-check.color-icon-check
                 |
-                | Documentos de libre acceso
+                | Documentos de libre acceso.
               li 
                 i.fas.fa-check.color-icon-check
                 |
-                | Documentos no clasificados con confidencialidad
+                | Documentos no clasificados con confidencialidad.
               li 
                 i.fas.fa-check.color-icon-check
                 |
-                | Documentos confidenciales
+                | Documentos confidenciales.
 
           .tarjeta.clr-paleYellow.p-4(titulo='La clase')
             ul
               li 
                 i.fas.fa-check.color-icon-check
                 |
-                | Documentos textuales
+                | Documentos textuales.
               li 
                 i.fas.fa-check.color-icon-check
                 |
-                | Documentos no textuales
+                | Documentos no textuales.
               li 
                 i.fas.fa-check.color-icon-check
                 |
-                | Documentos iconográficos
+                | Documentos iconográficos.
               li 
                 i.fas.fa-check.color-icon-check
                 |
-                | Documentos sonoros
+                | Documentos sonoros.
               li 
                 i.fas.fa-check.color-icon-check
                 |
-                | Documentos audiovisuales
+                | Documentos audiovisuales.
               li 
                 i.fas.fa-check.color-icon-check
                 |
-                | Documentos magnéticos
+                | Documentos magnéticos.
               li 
                 i.fas.fa-check.color-icon-check
                 |
-                | Documentos materiales
+                | Documentos materiales.
 
           .tarjeta.clr-paleYellow.p-4(titulo='El ente o autor')
             ul
               li 
                 i.fas.fa-check.color-icon-check
                 |
-                | Públicos
+                | Públicos.
               li 
                 i.fas.fa-check.color-icon-check
                 |
-                | Privados
+                | Privados.
 
       .col-lg-4.order-1.order-lg-2.mb-4.mb-lg-0(data-aos='zoom-in')
         figure
@@ -464,30 +464,41 @@
                   | Tercer dígito: oficinas dependientes de las secretarías.
 
             .col-md-4
-              figure
-                img(
-                  src='@/assets/template/tema02/t2-i26.png',
-                  alt='Texto que describa la imagen'
-                )
+              img.img-w(src='@/assets/template/tema02/t2-i26.png',
+                  alt='Texto que describa la imagen')
           .row.p-5 
             .col-md-7.mb-4.mb-md-0
               h4 Procedimientos técnicos
               p De acuerdo con lo contemplado en la ISO 15489-2 se relacionan los siguientes:
+              ul.mt-4
+                li 
+                  i.fas.fa-check.color-icon-check.pe-2
+                  | Incorporación.
+                li 
+                  i.fas.fa-check.color-icon-check.pe-2
+                  | Registro.
+                li 
+                  i.fas.fa-check.color-icon-check.pe-2
+                  | Clasificación.
+                li 
+                  i.fas.fa-check.color-icon-check.pe-2
+                  | Asignación de acceso y seguridad.
 
-              | Incorporación
-              br
-              | Registro
-              br
-              | Clasificación
-              | Asignación de acceso y seguridad
-              br
-              | Definición de la disposición
-              br
-              | Almacenamiento
-              br
-              | Uso y trazabilidad
-              br
-              | Disposición
+                li 
+                  i.fas.fa-check.color-icon-check.pe-2
+                  | Definición de la disposición.
+
+                li 
+                  i.fas.fa-check.color-icon-check.pe-2
+                  | Almacenamiento.
+
+                li 
+                  i.fas.fa-check.color-icon-check.pe-2
+                  | Uso y trazabilidad.
+
+                li 
+                  i.fas.fa-check.color-icon-check.pe-2
+                  | Disposición.
 
             .col-md-5
               figure
