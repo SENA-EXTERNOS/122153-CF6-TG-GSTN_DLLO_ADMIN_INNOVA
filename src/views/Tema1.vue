@@ -203,7 +203,7 @@
                     )
 
               h3.text-center Normativa externa
-              p.text-small.text-center Se encuentran las leyes, decretos, acuerdos, circulares, resoluciones, que afectan la gestión de la entidad.
+              p.text-center Se encuentran las leyes, decretos, acuerdos, circulares, resoluciones, que afectan la gestión de la entidad.
 
           .col-sm-6.col-lg-4.mb-4.mb-lg-0
             .col-lg-12.t-2-nivel1-tarjeta
@@ -217,7 +217,7 @@
                     )
 
               h3.text-center Normativa interna
-              p.text-small.text-center Están los reglamentos, estatutos, manuales y, en general, los actos de interés para la entidad que permiten identificar las competencias, responsabilidades y funciones de las dependencias de la organización.
+              p.text-center Están los reglamentos, estatutos, manuales y, en general, los actos de interés para la entidad que permiten identificar las competencias, responsabilidades y funciones de las dependencias de la organización.
 
       .col-lg-12.px-5
         .cajon.acento-botones_txt_destacado.p-4
