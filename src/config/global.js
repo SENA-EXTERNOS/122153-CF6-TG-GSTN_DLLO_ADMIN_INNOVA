@@ -142,7 +142,7 @@ export default {
     {
       tema: 'Clasificación documental',
       referencia:
-        'Godoy, J., & López, M. (2001). <em>Cartilla de clasificación Documental. Archivo General de la Nación.</em>',
+        'Godoy, J., & López, M. (2001). <em>Cartilla de clasificación Documental.</em> Archivo General de la Nación.',
       tipo: 'PDF',
       link:
         'https://www.archivogeneral.gov.co/caja_de_herramientas/docs/5.%20organizacion/MANUALES/CLASIFICACION%20DOCUMENTAL.pdf',
@@ -152,7 +152,7 @@ export default {
     {
       termino: 'Archivo',
       significado:
-        'conjunto de documentos sea cual fuere su fecha, forma y soporte material, acumulados en un proceso natural por una persona o entidad pública o privada en el transcurso de su gestión.',
+        'conjunto de documentos, sea cual fuere su fecha, forma y soporte material, acumulados en un proceso natural por una persona o entidad pública o privada en el transcurso de su gestión.',
     },
     {
       termino: 'Conservación documental',
@@ -177,7 +177,7 @@ export default {
     {
       termino: 'Organización documental',
       significado:
-        'conjunto de actividades técnicas y administrativas cuya finalidad es la agrupación de documental relacionada en forma jerárquica con criterios orgánicos o funcionales.',
+        'conjunto de actividades técnicas y administrativas cuya finalidad es la agrupación documental relacionada en forma jerárquica con criterios orgánicos o funcionales.',
     },
     {
       termino: 'Proceso',
@@ -209,7 +209,7 @@ export default {
     },
     {
       referencia:
-        'Archivo General de la Nación. Colombia. (2012). <em>Objetivos.</em> Archivo General de la Nación.',
+        'Archivo General de la Nación. Colombia. (2012). <em>Objetivos.</em> Archivo General de la Nación. ',
       link: 'https://www.archivogeneral.gov.co/Conozcanos/objetivos',
     },
     {
@@ -223,12 +223,12 @@ export default {
       link: '',
     },
     {
-      referencia: 'Definición. DE. (2011). <em>Definición de archivo.</em>',
+      referencia: 'Definición. DE. (2011). <em>Definición de archivo.</em> ',
       link: 'https://definicion.de/archivo/',
     },
     {
       referencia:
-        'Godoy, J., & López, M. (2001). <em>Cartilla de clasificación Documental. Archivo General de la Nación.</em>',
+        'Godoy, J., & López, M. (2001). <em>Cartilla de clasificación Documental.</em> Archivo General de la Nación. ',
       link:
         'https://www.archivogeneral.gov.co/caja_de_herramientas/docs/5.%20organizacion/MANUALES/CLASIFICACION%20DOCUMENTAL.pdf',
     },
@@ -245,7 +245,7 @@ export default {
     },
     {
       referencia:
-        'Parra, G. (2017). <em>La gestión documental en las universidades públicas de Bogotá D.C.: Aplicación Normatividad.</em> Información archivística Rio de Janeiro.',
+        'Parra, G. (2017). <em>La gestión documental en las universidades públicas de Bogotá D.C.: Aplicación Normatividad.</em> Información archivística Rio de Janeiro. ',
       link: 'https://brapci.inf.br/index.php/res/download/54475',
     },
   ],

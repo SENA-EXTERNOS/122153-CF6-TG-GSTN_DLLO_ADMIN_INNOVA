@@ -34,7 +34,7 @@
     p A continuación, conocerá varias clases de documentos usados:
 
     .row.mb-5.px-3
-      .col-lg-6.col-md-6.col-12.mb-3
+      .col-lg-6.col-md-10.col-12.mb-3
         .crd.crd--avatarHorizontal.crd--complete.py-4
           .row.align-items-center
             .col-auto
@@ -43,7 +43,7 @@
             .col
               h5 Documentos textuales
               p Son todos aquellos que se basan en el lenguaje escrito.
-      .col-lg-6.col-md-6.col-12.mb-3
+      .col-lg-6.col-md-10.col-12.mb-3
         .crd.crd--avatarHorizontal.crd--complete.py-4
           .row.align-items-center
             .col-auto
@@ -52,7 +52,7 @@
             .col
               h5 Documentos sonoros
               p Son aquellos que se almacenan en un soporte magnetofónico, o que registre y/o almacene sonido.
-      .col-lg-6.col-md-6.col-12.mb-3
+      .col-lg-6.col-md-10.col-12.mb-3
         .crd.crd--avatarHorizontal.crd--complete.py-4
           .row.align-items-center
             .col-auto
@@ -61,7 +61,7 @@
             .col
               h5 Documentos audiovisuales
               p Son todos aquellos que se basan en imágenes y sonidos, por lo general se almacenan en cintas.
-      .col-lg-6.col-md-6.col-12.mb-3
+      .col-lg-6.col-md-10.col-12.mb-3
         .crd.crd--avatarHorizontal.crd--complete.py-4
           .row.align-items-center
             .col-auto
@@ -74,7 +74,7 @@
     p Los documentos tienen características tanto externas como internas. A continuación, se conocerán cada una de ellas:
 
     .row.justify-content-center.mb-4
-      .col-lg-4
+      .col-lg-4.col-8
         figure(data-aos='zoom-in')
           img.img400.m-auto(
             src='@/assets/template/tema02/t2-i7.jpg',
@@ -149,7 +149,7 @@
     p.mb-5 Es vital la documentación para el control de la calidad y de los procesos, debido a que:
 
     .row.mb-5.px-3
-      .col-lg-6.col-md-6.col-12.mb-3
+      .col-lg-6.col-md-10.col-12.mb-3
         .crd.crd--avatarHorizontal.crd--complete.py-5
           .row.align-items-center
             .col-auto
@@ -157,7 +157,7 @@
                 img.img100(src='@/assets/template/tema02/t2-i9.png', alt='alt')
             .col
               p Facilita un mejor manejo de la información.
-      .col-lg-6.col-md-6.col-12.mb-3
+      .col-lg-6.col-md-10.col-12.mb-3
         .crd.crd--avatarHorizontal.crd--complete.py-5
           .row.align-items-center
             .col-auto
@@ -168,7 +168,7 @@
                 )
             .col
               p Facilita el acceso y control de documentos.
-      .col-lg-6.col-md-6.col-12.mb-3
+      .col-lg-6.col-md-10.col-12.mb-3
         .crd.crd--avatarHorizontal.crd--complete.py-5
           .row.align-items-center
             .col-auto
@@ -179,7 +179,7 @@
                 )
             .col
               p Contribuye a una mejor producción documental.
-      .col-lg-6.col-md-6.col-12.mb-3
+      .col-lg-6.col-md-10.col-12.mb-3
         .crd.crd--avatarHorizontal.crd--complete.py-5
           .row.align-items-center
             .col-auto
@@ -229,6 +229,10 @@
     p De acuerdo con lo anterior, se puede concluir que los documentos son importantes en las organizaciones porque aportan en su historia, organización, control, fuente de información y toma de decisiones. A continuación, se muestra cada uno de ellos:
 
     .col-lg-12.p-3.mb-5
+      .titulo-sexto.color-acento-contenido(data-aos="fade-right") 
+        h5 Figura 2
+        p.mb-0 
+          em Aspectos donde influyen los documentos
       figure(data-aos='zoom-in')
         img(src='@/assets/template/tema02/1.svg')
 
@@ -241,7 +245,7 @@
     | Los documentos se clasifican en tres categorías, de acuerdo a su naturaleza, finalidad y funcionalidad. A continuación se dará una breve explicación de ellas:
 
     .row.justify-content-center.mb-5.mt-5
-      .col-lg-4
+      .col-lg-4.col-8
         figure(data-aos='zoom-in')
           img.img400.m-auto(
             src='@/assets/template/tema02/t2-i16.jpg',
@@ -263,7 +267,7 @@
 
               p <b>Documentos dispositivos:</b> son todas las normas de obligatorio cumplimiento entre las cuales se encuentran: leyes, decretos, ordenanzas, acuerdos y resoluciones.
 
-              p <b>Documentos informativos:</b> aquellos documentos de la función administrativa de una empresa.
+              p <b>Documentos informativos:</b> son aquellos documentos de la función administrativa de una empresa.
 
               p <b>Documentos testimoniales:</b> son usados como prueba o testimonio.
 
@@ -449,7 +453,7 @@
           .row.p-5
             .col-md-8.mb-4.mb-md-0
               h4 Ordenación
-              p Son esquemas que muestran la jerarquización y clasificación documental de la organización se pueden hacer de manera numérica o alfanumérica, en donde cada digito representará el nivel jerárquico que tendrá la organización.
+              p Son esquemas que muestran la jerarquización y clasificación documental de la organización. Se pueden hacer de manera numérica o alfanumérica, en donde cada dígito representará el nivel jerárquico que tendrá la organización.
               | Ejemplo:
 
               ul.mt-4
@@ -541,7 +545,7 @@
         .cajon.color_primario_txt_destacado.p-4
           p.mb-0 Las secciones documentales están conformadas por el conjunto de documentos originados o recibidos en cada dependencia de esa administración, para este caso secretarías, y tendría el nombre de Sección Documental de la Secretaría de Gobierno, Agricultura, entre otros.
 
-    p Las subsecciones estarán conformadas por los documentos producidos o recibidos en los grupos de trabajo de cada dependencia, para este caso de cada secretaría.
+    p Las subsecciones estarán conformadas por los documentos producidos o recibidos en los grupos de trabajo de cada dependencia, para este caso, de cada secretaría.
 
     h3.mb-4
       i.fas.fa-square.color_texto_acento.me-3

@@ -13,7 +13,7 @@
           img(src='@/assets/template/tema01/t1-i1.jpg')
 
       .col-md-7
-        p Se hace necesario, iniciar este componente conociendo de dónde proviene la palabra archivo; esta procede del latín archivum, aunque su origen más remoto se encuentra en la lengua griega y puede traducirse como ‘residencia de los magistrados’. El término se utiliza para nombrar al conjunto ordenado de documentos que una sociedad, una institución o una persona, elaboran en el marco de sus actividades y funciones. 
+        p Se hace necesario, iniciar este componente conociendo de dónde proviene la palabra archivo; esta procede del latín #[em archivum], aunque su origen más remoto se encuentra en la lengua griega y puede traducirse como ‘residencia de los magistrados’. El término se utiliza para nombrar al conjunto ordenado de documentos que una sociedad, una institución o una persona, elaboran en el marco de sus actividades y funciones. 
           |
           strong (Definición. De, 2011, #[i definición de archivo], párr. 1).
 
@@ -69,7 +69,7 @@
 
       .col-md-7
         p Al construir la historia institucional se debe tener en cuenta el aspecto legal, revisando las alteraciones o cambios surgidos en la legislación a través de las diferentes estructuras políticas y económicas detallando lo que cada una de ellas le haya aportado.
-        | En las normas archivísticas encontramos gran variedad, entre las más conocidas están las que se relacionan con las normas de gestión documental como las ISAD (G), ISAAR (CPF), ISDF, ISDIAH, DTDs, NEDA, NODAC, NOGADA, ARANOR, y las que dan orientación en descripción archivística como la ISO 15489, ISO 303000, entre otras.
+        | En las normas archivísticas encontramos gran variedad, entre las más conocidas están las que se relacionan con las normas de gestión documental como las ISAD (G), ISAAR (CPF), ISDF, ISDIAH, DTDs, NEDA, NODAC, NOGADA, ARANOR, y las que dan orientación en descripción archivística como la ISO 15489, ISO 30300, entre otras.
 
     .row.mb-5
       .col-lg-12.px-5
@@ -93,7 +93,7 @@
     .row.justify-content-center.mb-4
       .col-lg-11.col-md-10.col-12
         .row
-          .col-lg-4
+          .col-lg-4.col-8.mb-lg-0.mb-4.mx-auto
             figure(data-aos='zoom-in')
               img.img400.m-auto(
                 src='@/assets/template/tema01/t1-i5.jpg',
@@ -105,11 +105,11 @@
                 .col-12
                   p.mb-0 Es una norma internacional y tiene como objetivo establecer encabezamientos autorizados para describir las entidades (instituciones, personas y familias) asociadas a la producción y a la gestión de los archivos. Esta norma fue aprobada en el año 2004 en el Congreso Internacional de Archivos (ICA), cuenta con 4 áreas que son: identificación, descripción, relaciones y control, además tiene 2 funciones puntuales: controlar la creación y empleo de los encabezamientos y describir una entidad, familia y/o persona proporcionando toda la información que disponga.
 
-              .row(titulo='DTDS (EAD, EAC y EAG)')
+              .row(titulo='DTDs (EAD, EAC y EAG)')
                 .col-12
                   p.mb-0 En estas se encuentran tres normas claves en el archivo de documentos y se basan principalmente en que todos los documentos de un mismo tipo posean una estructura común, de modo que se codifiquen usando el mismo conjunto de etiquetas o vocabulario. La primera es la norma de Descripción Archivística Codificada (EAD) usada para la codificación en formato electrónico de descripciones de documentos de archivo, la segunda es la Norma de Contexto Archivístico Codificado (EAC) que permite la codificación en formato XML de los registros de autoridad y la tercera es la Norma de Guía de Archivo Codificada (EAG) que es una herramienta para la redacción de guías de archivo en formato electrónico.
 
-              .row(titulo='ISO (Organización Internacional de Normalización')
+              .row(titulo='ISO (Organización Internacional de Normalización)')
                 .col-12
                   p.mb-0 Nació tras la Segunda Guerra Mundial y es la encargada de promover el desarrollo de normas internacionales de fabricación, comercio y comunicación para todas las ramas industriales. Su función principal es buscar la estandarización de normas de productos y de seguridad para las empresas u organizaciones a nivel internacional.
 
@@ -193,9 +193,9 @@
         .row.d-flex.justify-content-center
           .col-sm-6.col-lg-4.mb-4.mb-lg-0
             .col-lg-12.t-2-nivel1-tarjeta
-            .tarjeta--boton.p-4.t-2-nivel2-tarjeta
+            .tarjeta--boton.p-4.h-100.t-2-nivel2-tarjeta
               .row.justify-content-center.mb-3.t-2-nivel3-tarjeta
-                .col-lg-4.col-3
+                .col-lg-4.col-6
                   figure
                     img(
                       src='@/assets/template/tema01/t1-i9.png',
@@ -207,9 +207,9 @@
 
           .col-sm-6.col-lg-4.mb-4.mb-lg-0
             .col-lg-12.t-2-nivel1-tarjeta
-            .tarjeta--boton.p-4.t-2-nivel2-tarjeta
+            .tarjeta--boton.p-4.h-100.t-2-nivel2-tarjeta
               .row.justify-content-center.mb-3.t-2-nivel3-tarjeta
-                .col-lg-4.col-3
+                .col-lg-4.col-6
                   figure
                     img(
                       src='@/assets/template/tema01/t1-i10.png',
@@ -218,7 +218,7 @@
 
               h3.text-center Normativa interna
               p.text-center Están los reglamentos, estatutos, manuales y, en general, los actos de interés para la entidad que permiten identificar las competencias, responsabilidades y funciones de las dependencias de la organización.
-
+        br
       .col-lg-12.px-5
         .cajon.acento-botones_txt_destacado.p-4
           p.mb-0 Es importante tener presente que cada institución puede diseñar su formato, no existe uno genérico para las instituciones, sin embargo, en las organizaciones privadas este va de la mano con las políticas internas en las que debe definir, personalizar y aplicar lo que se considere, además este se debe ajustar a la organización, consultando los requisitos y directrices bajo su respectivo ordenamiento jurídico.

@@ -69,7 +69,7 @@
           li 
             i.fas.fa-check.color-icon-check
             |
-            | Agrupación por tipo de documento: pedido, certificado, correo recibido, correo enviado, factura, certificado.
+            | Agrupación por tipo de documento: pedido, correo recibido, correo enviado, factura, certificado.
           br
           li 
             i.fas.fa-check.color-icon-check
@@ -135,7 +135,7 @@
 
     .row
       .tarjeta--container.row.mb-5
-        .col-md.tarjeta.color-primario-claro.p-5
+        .col-lg.tarjeta.color-primario-claro.p-5
           .row.justify-content-center.mb-4
             .col-6
               figure(data-aos='zoom-in')
@@ -146,7 +146,7 @@
           h2.text-center Velar
           p.text-center Velar por la preservación del patrimonio documental de la Nación y facilitar el acceso a dicho patrimonio por parte de la ciudadanía en general.
           
-        .col-md.tarjeta.color-secundario-claro.p-5
+        .col-lg.tarjeta.color-secundario-claro.p-5
           .row.justify-content-center.mb-4
             .col-6
               figure(data-aos='zoom-in')
@@ -158,7 +158,7 @@
           h2.text-center Custodiar
           p.text-center Custodiar, conservar, recuperar y difundir el patrimonio documental de la Nación.
 
-        .col-md.tarjeta.color-primario-claro.p-5
+        .col-lg.tarjeta.color-primario-claro.p-5
           .row.justify-content-center.mb-4
             .col-6
               figure(data-aos='zoom-in')
@@ -172,7 +172,7 @@
 
     .row.mb-5
       .tarjeta--container.row.mb-5
-        .col-md.tarjeta.color-secundario-claro.p-5
+        .col-lg.tarjeta.color-secundario-claro.p-5
           .row.justify-content-center.mb-4
             .col-6
               figure(data-aos='zoom-in')
@@ -184,7 +184,7 @@
           h2.text-center Asegurar
           p.text-center Asegurar el funcionamiento articulado del Sistema Nacional de Archivos.
 
-        .col-md.tarjeta.color-primario-claro.p-5
+        .col-lg.tarjeta.color-primario-claro.p-5
           .row.justify-content-center.mb-4
             .col-6
               figure(data-aos='zoom-in')
@@ -196,7 +196,7 @@
           h2.text-center Promover
           p.text-center Promover y desarrollar acciones para establecer una cultura integradora de la archivística, la gestión documental y la gestión de la información útil y oportuna para la toma de decisiones y gestión eficiente de la administración.
 
-        .col-md.tarjeta.color-secundario-claro.p-5
+        .col-lg.tarjeta.color-secundario-claro.p-5
           .row.justify-content-center.mb-4
             .col-6
               figure(data-aos='zoom-in')
@@ -218,7 +218,7 @@
       .col-lg-12.px-5.mb-2
         .cajon.color_primario_txt_destacado.p-4
           .row.px-5 
-            .col-lg-2
+            .col-lg-2.col-6.mb-lg-0.mb-4.mx-auto
               figure(data-aos='zoom-in')
                 img(
                   src='@/assets/template/tema03/t3-i13.png',
@@ -229,7 +229,7 @@
       .col-lg-12.px-5
         .cajon.acento-botones_txt_destacado.p-4
           .row.px-5 
-            .col-lg-2
+            .col-lg-2.col-6.mb-lg-0.mb-4.mx-auto
               figure(data-aos='zoom-in')
                 img(
                   src='@/assets/template/tema03/t3-i14.png',
@@ -259,7 +259,7 @@
       .col-lg-12.px-5.mb-2
         .cajon.color_primario_txt_destacado.p-4
           .row.px-5 
-            .col-lg-2
+            .col-lg-2.col-6.mb-lg-0.mb-4.mx-auto
               figure(data-aos='zoom-in')
                 img(
                   src='@/assets/template/tema03/t3-i15.png',
